@@ -79,8 +79,5 @@ gcc music_library.c -o music
 * Improve input validation
 * Add GUI interface
 
----
 
-## Author
 
-Your Name
